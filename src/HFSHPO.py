@@ -2,8 +2,7 @@
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import StratifiedKFold
-from sklearn.metrics import matthews_corrcoef, f1_score
-from sklearn.metrics import average_precision_score
+from sklearn.metrics import matthews_corrcoef, f1_score, average_precision_score
 
 
 def HIPP(X, Anc, Des, Term_list, Term_index):
