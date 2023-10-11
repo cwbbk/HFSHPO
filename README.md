@@ -1,8 +1,8 @@
-# HFSHPO
+# Hierarchical ontology terms selection-based knowledge discovery framework (HTSKDD)
 
-This is a Python implementation of the HIP+-based knowledge discovery framework reported in
+This is a Python implementation of the hierarchical ontology terms selection-based knowledge discovery framework reported in
 
-Wan, C. & Barton, C. (2023) Elucidating human ageing-related phenotypic abnormalities with a novel hierarchical feature selection-based knowledge discovery framework. bioRxiv:26.542395.
+Wan, C. & Barton, C. (2023) A novel hierarchy-based knowledge discovery framework for elucidating human aging-related phenotypic abnormalities. under review.
 
 ---------------------------------------------------------------
 # Requirements
@@ -16,5 +16,5 @@ Wan, C. & Barton, C. (2023) Elucidating human ageing-related phenotypic abnormal
 
 * Step 1. Download the Gene Ontology feature set, Gene Ontology ancestors/descendents sets, and the Human Phenotype Ontology label set files from ./data.
 
-* Step 2. Execute the Python code ./src/HFSHPO.py to obtain the predictive accuracy of HIP+ and the corresponding selected Gene Ontology terms for predicting different Human Phenotype Ontology terms.
+* Step 2. Execute the Python code ./src/HTSKDD.py to obtain the predictive accuracy of HIP+ and the corresponding selected Gene Ontology terms for predicting different Human Phenotype Ontology terms.
 
