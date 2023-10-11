@@ -1,2 +1,2 @@
-Download and execute HFSHPO.py — the sourcecode of the HIP+-based knowledge discovery framework.
+Download and execute HTSKDD.py — the sourcecode of the EL-HIP+-based knowledge discovery framework.
 
