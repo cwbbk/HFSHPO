@@ -2,7 +2,7 @@
 
 This is a Python implementation of the hierarchical ontology terms selection-based knowledge discovery framework reported in
 
-Wan, C. & Barton, C. (2023) A novel hierarchy-based knowledge discovery framework for elucidating human aging-related phenotypic abnormalities. under review.
+A novel hierarchy-based knowledge discovery framework for elucidating human aging-related phenotypic abnormalities. under review.
 
 ---------------------------------------------------------------
 # Requirements
