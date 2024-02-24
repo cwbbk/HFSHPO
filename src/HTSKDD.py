@@ -1,3 +1,7 @@
+# This is a Python implementation of the EL-HIP+ hierarchical feature selection method, which selects a set of positive features preserving hierarchical information for each instance.
+# For the purpose of knowledge discovery, the selected features for each instance will be aggregated as one set of selected features for the entire dataset (Algorithm 1).
+# For the purpose of predictive performance evaluation, an eager learning classifier (i.e. Random Forests) was trained by the EL-HIP+-selected features for each testing instance. 
+# Note that, as an eager learning-based supervised learning paradigm, the classifier training process does not consider the feature values of the target testing instance.
 
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
